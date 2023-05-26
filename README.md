@@ -5,3 +5,4 @@
 * There is a footer in Home page which is available in all routes
 * In best chef section each card has a button named "View Recipes". If the user is not logged in he will not get the access to the single chef page
 * Live website link: https://chef-recipe-hunter-397b0.web.app/
+* This site was made for my assignment. I have to publish this project in another repository. That is why you won't see many commits in this project
