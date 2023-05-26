@@ -26,7 +26,6 @@ const Header = () => {
             </div>
             <div className='flex items-center gap-5 anchors-container'>
                 <ActiveLink to='/'>Home</ActiveLink>
-                <ActiveLink to='/blog'>Blog</ActiveLink>
                 <ActiveLink to='/register'>Register</ActiveLink>
                 {
                     user ?
